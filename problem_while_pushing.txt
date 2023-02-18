@@ -1,0 +1,18 @@
+If Problem occured while pushing
+
+1. Create Github Account.
+2. Create Empty Repo.
+3. local system
+	git config --global user.name "anurag-int"
+	git config --global user.email "xyz****@gmail.com"
+4. git push -u origin master 
+	4.1 -> username? -> anurag-int
+	4.2 -> Password? -> Personal Access Token
+
+
+## to create personal token
+1. go to github setting.
+2. go to Developer Settings(at the very last)
+3. go to Personal access tokens
+4. click on Tokens(classic)
+5. click on Generate new Token
